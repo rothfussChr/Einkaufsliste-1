@@ -10,7 +10,7 @@
  - Geburtsdaten: 14. August 1989 in Musterhausen
 
 ## Berufliche Ausbildung
- - seit 09/2010 Ausbildung zum Werbekaufmann, Privates Institut für Marketing und Kommunikation, Musterstadt (Abschluss: Juli 2013)
+ - seit 09/2010 Ausbildung zur Prostituierten, Privates Institut für Marketing und Kommunikation, Musterstadt (Abschluss: Juli 2013)
 
 ###### Schule/Studium
  - 2007 – 2010 Studium im Fachbereich Bauingenieurwesen, Fachhochschule Musterstadt
@@ -36,3 +36,4 @@ Max Mustermann
 
 Alles kopiert von Tim :D
 Änderung con Marcel
+Änderung von Christoph
