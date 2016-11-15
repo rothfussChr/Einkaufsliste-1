@@ -1,0 +1,6 @@
+Einkaufsliste
+Honig
+Wurst
+Salat
+Fleisch
+Brot
