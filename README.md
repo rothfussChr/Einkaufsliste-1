@@ -2,6 +2,7 @@
 
 ## Persönliche Daten
 
+![alt text](https://github.com/skantimm/Einkaufsliste/blob/local/foto.jpg)
  - Name: Max Mustermann
  - Adresse: Max-Hermann-Str. 44, 69432 Musterstadt
  - Telefon: 0123-45678901
